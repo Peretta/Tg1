@@ -60,21 +60,7 @@ As equipes da empresa possuem dificuldades no processo de organização do traba
 ---
 
 ### ✅ Solução Desenvolvida
-Descrever a solução criada (mínimo 5 linhas):  
-- Tipo de sistema (Web, App ou Desktop)  
-- Principais funcionalidades  
-- Como atende o problema identificado  
-- Uma única imagem simples ilustrando (opcional)
-
-**Figura ilustrativa (opcional):**
-
-<img src="INSIRA_AQUI_URL_DA_IMAGEM" width="350"/>
-
-<details>
-  <summary><strong>Detalhes adicionais da solução (opcional)</strong></summary>
-
-Aqui você pode colocar imagens extras, telas do sistema, diagramas ou explicações técnicas complementares.
-</details>
+A solução desenvolvida consiste em um sistema web projetado para auxiliar equipes no entendimento e na aplicação correta da metodologia Scrum, oferecendo uma experiência clara, didática e prática. O website reúne em páginas distintas todos os elementos essenciais do framework — eventos, papéis, artefatos, apêndices e bibliografia — permitindo que qualquer equipe compreenda rapidamente suas responsabilidades, fluxos e prioridades. Além disso, a plataforma disponibiliza uma área completa de avaliação de equipes, baseada no método PACER, onde líderes podem avaliar proatividade, autonomia, colaboração e entregas, recebendo os resultados diretamente por e-mail
 
 ---
 
@@ -128,21 +114,7 @@ Os usuários da empresa enfrentam dificuldades para acessar e interpretar inform
 ---
 
 ### ✅ Solução Desenvolvida
-Descrever a solução criada (mínimo 5 linhas):  
-- Tipo de sistema (Web, App ou Desktop)  
-- Principais funcionalidades  
-- Como atende o problema identificado  
-- Uma única imagem simples ilustrando (opcional)
-
-**Figura ilustrativa (opcional):**
-
-<img src="INSIRA_AQUI_URL_DA_IMAGEM" width="350"/>
-
-<details>
-  <summary><strong>Detalhes adicionais da solução (opcional)</strong></summary>
-
-Aqui você pode colocar imagens extras, telas do sistema, diagramas ou explicações técnicas complementares.
-</details>
+A solução criada consiste em um aplicativo Desktop chamado DataEase, projetado para permitir que usuários sem conhecimento técnico em SQL consultem bancos de dados de forma simples e intuitiva. O sistema oferece uma interface enxuta, composta por um campo de entrada para linguagem natural, um botão de envio e uma área destinada à visualização dos resultados retornados. Sua principal funcionalidade é a tradução automática de linguagem natural em comandos SQL, executando as consultas diretamente no banco escolhido pelo usuário. Além disso, o DataEase possibilita o cadastro de usuários, a configuração de múltiplos bancos de dados e a troca do modelo de linguagem utilizado. Com isso, elimina a dependência do setor técnico, acelera o acesso à informação e garante autonomia aos usuários na exploração dos dados corporativos.
 
 ---
 
@@ -196,21 +168,7 @@ O departamento de Recursos Humanos da Youtan relatou dificuldades para coletar e
 ---
 
 ### ✅ Solução Desenvolvida
-Descrever a solução criada (mínimo 5 linhas):  
-- Tipo de sistema (Web, App ou Desktop)  
-- Principais funcionalidades  
-- Como atende o problema identificado  
-- Uma única imagem simples ilustrando (opcional)
-
-**Figura ilustrativa (opcional):**
-
-<img src="INSIRA_AQUI_URL_DA_IMAGEM" width="350"/>
-
-<details>
-  <summary><strong>Detalhes adicionais da solução (opcional)</strong></summary>
-
-Aqui você pode colocar imagens extras, telas do sistema, diagramas ou explicações técnicas complementares.
-</details>
+A solução proposta consiste em um sistema web moderno e centralizado para gestão de feedbacks, pesquisas de clima e organização de equipes, desenvolvido especialmente para atender às necessidades do RH da Youtan. A plataforma “OAKRH” reúne em um único ambiente o cadastro de usuários com diferentes níveis de acesso, a criação de formulários personalizados e o gerenciamento de equipes. O sistema permite coletar, armazenar e visualizar respostas de avaliações técnicas, comportamentais e de satisfação, oferecendo dashboards completos para análise de desempenho individual e coletivo. Além disso, possibilita comparar avaliações ao longo do tempo, aplicar filtros estratégicos e exportar relatórios em PDF. Dessa forma, a solução elimina processos manuais, reduz erros de comunicação e oferece uma visão estruturada que fortalece a cultura organizacional e melhora a tomada de decisão do RH.
 
 ---
 
@@ -265,21 +223,8 @@ A FAPG não possui uma forma estruturada de acompanhar o andamento dos projetos 
 ---
 
 ### ✅ Solução Desenvolvida
-Descrever a solução criada (mínimo 5 linhas):  
-- Tipo de sistema (Web, App ou Desktop)  
-- Principais funcionalidades  
-- Como atende o problema identificado  
-- Uma única imagem simples ilustrando (opcional)
 
-**Figura ilustrativa (opcional):**
-
-<img src="INSIRA_AQUI_URL_DA_IMAGEM" width="350"/>
-
-<details>
-  <summary><strong>Detalhes adicionais da solução (opcional)</strong></summary>
-
-Aqui você pode colocar imagens extras, telas do sistema, diagramas ou explicações técnicas complementares.
-</details>
+A solução proposta consiste em uma plataforma web centralizada para gestão completa dos projetos da FAPG, oferecendo uma visão integrada de prazos, tarefas, responsáveis e áreas de atuação. O sistema permite login seguro, garantindo proteção aos dados sensíveis da instituição. Entre as principais funcionalidades, destacam-se o cadastro, edição e listagem de projetos, além do registro de etapas, tarefas e subtarefas, sua atribuição a membros específicos e acompanhamento de status. A plataforma também possibilita a organização por áreas de atuação e a recuperação de projetos excluídos. Essa abordagem elimina planilhas manuais, aumenta a transparência, acelera a tomada de decisão e fortalece o controle sobre o andamento das iniciativas da FAPG.
 
 ---
 
@@ -333,22 +278,8 @@ Grande parte das propriedades rurais no Brasil não possui um endereço formal o
 ---
 
 ### ✅ Solução Desenvolvida
-Descrever a solução criada (mínimo 5 linhas):  
-- Tipo de sistema (Web, App ou Desktop)  
-- Principais funcionalidades  
-- Como atende o problema identificado  
-- Uma única imagem simples ilustrando (opcional)
 
-**Figura ilustrativa (opcional):**
-
-<img src="INSIRA_AQUI_URL_DA_IMAGEM" width="350"/>
-
-<details>
-  <summary><strong>Detalhes adicionais da solução (opcional)</strong></summary>
-
-Aqui você pode colocar imagens extras, telas do sistema, diagramas ou explicações técnicas complementares.
-</details>
-
+Um aplicativo móvel (Android/React Native) para endereçamento digital de imóveis do CAR, roteirização rural, registro colaborativo de condições de vias e exibição de alertas,visuaização das propriedades, multinível de usuários e painel do administrador.
 ---
 
 ### 🔗 Link do Repositório Git
