@@ -13,14 +13,19 @@
 - *Formação Técnica:* SENAI – Curso Técnico em Análise e Desenvolvimento de Sistemas  
 
 ### Motivação para Ingresso na FATEC
-O interesse em aprofundar conhecimentos na área de Tecnologia da Informação e a busca por ingresso qualificado no mercado de trabalho. A FATEC é uma referência em formação prática e aplicada, alinhada ao perfil profissional que desejo.
+Minha maior motivação é o interesse em aprofundar conhecimentos na área de Tecnologia da Informação e a aplicação deles. Além de buscas por ingresso no mercado de trabalho. E a FATEC é uma instituição de formação prática e aplicada, alinhada ao que eu procurava.
 
 ### Histórico Profissional
 - **2024 – Estagiário em Análise e Desenvolvimento de Sistemas**  
   Foco em Qualidade de Software (QA) e DevOps.
+  - Conversão de testes java para Kotlin
+  - Otimização de testes
+  - Testes manuais
 - **2025 – Analista de Sistemas Júnior**  
   Foco em Qualidade de Software (QA) e DevOps.
-
+  - Correção e otimização de testes
+  - Estudo e aplicação de novas tecnologias para otimizar processos
+  - Automatização de testes
 ### Informações de Contato
 - **E-mail:** viniassisperetta@gmail.com  
 - **GitHub:** https://github.com/peretta  
@@ -29,8 +34,8 @@ O interesse em aprofundar conhecimentos na área de Tecnologia da Informação e
 ---
 
 ### Principais Conhecimentos Técnicos
-- Git e versionamento de código  - Consigo gerenciar branches e resolve conflitos em equipes.
-- Python e Node.js  - Consigo criar APIs RESTful robustas (Express/Django/Flask), utilizando POO e processamento assíncrono eficiente.
+- Git e versionamento de código  - Consigo gerenciar branches e resolve conflitos em equipes. Solicitar e aceitar PRs.
+- Python e Node.js  - Consigo criar APIs RESTful (Express/Django/Flask), utilizando POO e processamento assíncrono eficiente.
 - SQL e modelagem de banco de dados  -Consigo desenhar esquemas de banco de dados normatizados e escrever consultas SQL complexas
 
 ---
@@ -92,7 +97,7 @@ A solução desenvolvida consiste em um sistema web projetado para auxiliar equi
 
 Atuei como **Product Owner (PO)** e também contribuí no **desenvolvimento** da solução.
 
-- Fui responsável por **entender e refinar os requisitos com o “cliente”** (professor e orientador), em especial a dúvida sobre a avaliação solicitada: se seria apenas baseada no modelo **PACER** ou se incluiria também **avaliações ao final de cada texto explicativo**.  
+- Fui responsável por **entender e refinar os requisitos com o cliente** (professor e orientador), em especial a dúvida sobre a avaliação solicitada: se seria apenas baseada no modelo **PACER** ou se incluiria também **avaliações ao final de cada texto explicativo**.  
 - Conduzi o alinhamento com o cliente, definindo que seriam implementadas **as duas abordagens**:  
   - a **avaliação PACER** para medir o desempenho da equipe;  
   - e **perguntas ao final dos artigos** para reforçar o entendimento do conteúdo teórico.  
@@ -208,7 +213,7 @@ Os usuários da empresa enfrentam dificuldades para acessar e interpretar inform
 ---
 
 ### ✅ Solução Desenvolvida
-A solução criada consiste em um aplicativo Desktop chamado DataEase, projetado para permitir que usuários sem conhecimento técnico em SQL consultem bancos de dados de forma simples e intuitiva. O sistema oferece uma interface enxuta, composta por um campo de entrada para linguagem natural, um botão de envio e uma área destinada à visualização dos resultados retornados. Sua principal funcionalidade é a tradução automática de linguagem natural em comandos SQL, executando as consultas diretamente no banco escolhido pelo usuário. Além disso, o DataEase possibilita o cadastro de usuários, a configuração de múltiplos bancos de dados e a troca do modelo de linguagem utilizado. Com isso, elimina a dependência do setor técnico, acelera o acesso à informação e garante autonomia aos usuários na exploração dos dados corporativos.
+A solução criada consiste em um aplicativo Desktop chamado DataEase, projetado para permitir que usuários sem conhecimento técnico em SQL consultem bancos de dados de forma simples e intuitiva. O sistema oferece uma interface simples, composta por um campo de entrada para linguagem natural, um botão de envio e uma área destinada à visualização dos resultados retornados. Sua principal funcionalidade é a tradução automática de linguagem natural em comandos SQL, executando as consultas diretamente no banco escolhido pelo usuário retornando os dados desejados, ou seja você pergunta e ele responde - o sql é feito por baixo dos panos. Além disso, o DataEase possibilita o cadastro de usuários, a configuração de múltiplos bancos de dados e a troca do modelo de linguagem utilizado. Com isso, elimina a dependência do setor técnico, acelera o acesso à informação e garante autonomia aos usuários na exploração dos dados corporativos.
 
 ---
 
@@ -223,11 +228,9 @@ A solução criada consiste em um aplicativo Desktop chamado DataEase, projetado
 |-------------------------|--------------------------------------------------------------------------------------|
 | **Java**                | Construção do aplicativo desktop e integração com o LLM                             |
 | **LangChain4j**         | Consumo de modelo local, conversão NL → SQL                                         |
-| **LocalAI**             | Servidor local para execução do modelo de linguagem                                 |
-| **MySQL**               | Banco de dados para usuários e conexões cadastradas                                 |
-| **JDBC**                | Execução das consultas SQL geradas pelo modelo                                      |
+| **LM Studio**             | Servidor local para execução do modelo de linguagem                                 |
+| **MySQL**               | Banco de dados para usuários e conexões cadastradas                                 
 | **GitHub**              | Versionamento, organização do código e histórico de Sprints                         |
-| **IntelliJ IDEA**       | IDE utilizada no desenvolvimento                                                     |
 
 ---
 
@@ -235,13 +238,13 @@ A solução criada consiste em um aplicativo Desktop chamado DataEase, projetado
 
 Atuei como **Desenvolvedor (Dev Team)** no projeto. Minhas principais contribuições foram:
 
-- **Implementação do módulo de comunicação com o modelo de linguagem**, utilizando *LangChain4j* e *LocalAI*, incluindo a criação da função para estabelecer conexão com o servidor LLM (`ligar servidor LM`).
+- **Implementação do módulo de comunicação com o modelo de linguagem**, utilizando *LangChain4j* e *LM Studio*, incluindo a criação da função para estabelecer conexão com o servidor LLM (`ligar servidor LM`).
 - Desenvolvimento de **funcionalidades-chave do CRUD de usuários**, incluindo otimizações no método `cadastrarUser`, implementação do método `getNameDB` e criação do `getIdUsuario`.
 - Criação e gerenciamento do **banco de dados MySQL**, com tabelas para usuários e conexões, além de consultas e selects de validação.
 - Desenvolvimento das **interações entre a interface e o back-end**, incluindo atualizações na tela de chat para a Sprint 3, ajustes visuais e funcionamento da área de entrada de comandos.
 - Implementação da **conexão em tempo real com o banco**, permitindo que o texto gerado pelo modelo fosse executado diretamente no banco pelo usuário.
 - Comentários, limpeza e organização do código durante as Sprints, garantindo clareza e documentação interna adequada.
-- Participação ativa no versionamento Git, com commits contínuos envolvendo criação de funcionalidades, correções e refinamento do fluxo interno da aplicação.
+- Participação no versionamento Git, com commits contínuos envolvendo criação de funcionalidades, correções e refinamento do fluxo interno da aplicação.
 
 ---
 
@@ -250,11 +253,11 @@ Alguns dos commits no desenvolvimento:
 - *Função ligar servidor LM funciona*  
 -*Finalização das modificações da tela Chat para Sprint 3*  
 - *Método getNameDB feito*  
-- *Código comentado e adição do método getIdUsario*  
-- *Otimização do método cadastrarUser (2/2)*  
+- *Código comentado e adição do método getIdUsario*
 - *Otimização do método cadastrarUser (1/2)*  
+- *Otimização do método cadastrarUser (2/2)*  
 - *Atualização telaChat*  
--*Criação de banco de dados e select*  
+- *Criação de banco de dados e select*  
 - *Conexão realizada, dados sendo enviados*  
 
 ---
