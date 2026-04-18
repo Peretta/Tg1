@@ -23,15 +23,24 @@ A solução proposta consiste em um sistema web moderno e centralizado para gest
 
 ### 🧰 Tecnologias Utilizadas
 
-| **Tecnologia** | **Funcionalidade**                                                                                                                               |
-| :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **React**      | Biblioteca JavaScript utilizada para o desenvolvimento do frontend da aplicação, permitindo a criação de interfaces dinâmicas e componentizadas. |
-| **Node.js**    | Ambiente de execução JavaScript multiplataforma, utilizado para rodar o código no servidor.                                                      |
-| **JavaScript** | Linguagem de programação utilizada no desenvolvimento do projeto, responsável pela lógica de interação e integração entre os componentes.        |
-| **TypeScript** | Superset do JavaScript que adiciona tipagem estática e recursos de orientação a objetos, aumentando a robustez e a manutenção do código.         |
-| **PostgreSQL** | Banco de dados relacional, utilizado para armazenamento de dados do sistema                                                                      |
-| **Firebase**   | Serviço em nuvem com banco de dados não relacional (NoSQL), utilizado para o armazenamento e autenticação de usuários (e-mails e senhas).        |
-| **Git**        | Sistema de controle de versão distribuído, utilizado para o gerenciamento do código-fonte e colaboração em equipe.                               |
+| Tecnologia | Utilização |
+|---|---|
+| **Next.js** | Framework React com SSR e otimizações |
+| **React** | Biblioteca para construção da UI |
+| **TypeScript** | Tipagem estática para maior segurança |
+| **Tailwind CSS** | Framework de CSS utilitário para styling |
+| **Axios** | Cliente HTTP para requisições à API |
+| **next-themes** | Gerenciamento de temas (dark/light mode) |
+| **Node.js** | Runtime JavaScript no servidor |
+| **TypeScript** | Tipagem estática para maior segurança |
+| **Express.js** | Framework HTTP para construção da API |
+| **PostgreSQL** | Banco de dados relacional principal |
+| **Firebase** | Autenticação e armazenamento em nuvem |
+| **Multer** | Upload e processamento de arquivos |
+| **Axios** | Cliente HTTP para requisições |
+| **CORS** | Controle de acesso entre domínios |
+| **dotenv** | Gerenciamento de variáveis de ambiente |
+
 
 ---
 
