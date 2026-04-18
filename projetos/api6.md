@@ -35,9 +35,9 @@ Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comi
 ---
 
 ### 🔗 Links dos Repositórios Git
-- **Backend (Spring Boot)**: [Acessar](https://github.com/seu-usuario/API_6_backend)
-- **Frontend (Vue.js)**: [Acessar](https://github.com/seu-usuario/API_6_frontend)
-- **ML Agent (Python/LLM)**: [Acessar](https://github.com/seu-usuario/API_6_ML)
+- **Backend (Spring Boot)**: [Acessar](https://github.com/Phoenix-Team-Fatec/API_6_backend)
+- **Frontend (Vue.js)**: [Acessar](https://github.com/Phoenix-Team-Fatec/API_6_frontend)
+- **ML Agent (Python/LLM)**: [Acessar](https://github.com/Phoenix-Team-Fatec/API_6_ML)
 
 ---
 
@@ -64,3 +64,5 @@ Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comi
 | **Vue** | Biblioteca JavaScript para construção de interfaces reativas |
 | **Vue Router** | Roteamento para aplicação web |
 | **Pandas** | Manipulação e análise de dados |
+
+[[Voltar]](../README.md)
