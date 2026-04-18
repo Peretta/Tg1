@@ -24,15 +24,30 @@ Um aplicativo móvel (Android/React Native) para endereçamento digital de imóv
 
 ### 🧰 Tecnologias Utilizadas
 
-| Tecnologia                                   | Onde foi utilizada                                                                 |
-|---------------------------------------------|------------------------------------------------------------------------------------|
-| **React Native (TypeScript/JavaScript)**    | Desenvolvimento do aplicativo móvel (telas de login, registro, mapa, perfil etc.) |
-| **FastAPI**          | Criação das APIs de usuários, propriedades, plus codes, ocorrências e certificados |
-| **Banco NoSQL (MongoDB)**           | Persistência de propriedades, ocorrências, usuários e histórico de plus code      |
-| **APIs de Mapas e GPS (Map/Location)**      | Exibição de mapa, geolocalização, registro de propriedades e rotas                |
-| **Weather API**                             | Consulta de clima para enriquecer alertas e ocorrências                           |
-| **AWS**        | Plataforma de nuvem utilizada para hospedagem e deploy da aplicação web.            |
-| **GitHub / Git Flow**                       | Versionamento, PRs, merges e organização do fluxo de desenvolvimento              |
+## 📊 Tabela de Tecnologias e Sua Aplicação
+
+| Tecnologia | Onde foi usada |
+|---|---|
+| **Python** | Linguagem de programação utilizada no backend |
+| **FastAPI** | Framework web moderno para construção de APIs REST em Python |
+| **MongoDB** | Banco de dados NoSQL orientado a documentos com suporte a geoespacial |
+| **PyMongo** | Driver oficial MongoDB para Python com suporte assíncrono |
+| **Pydantic** | Validação e serialização de dados com tipagem |
+| **Google Maps API** | Integração com serviços de mapas e geolocalização |
+| **Plus Codes** | Sistema de endereçamento digital para localidades |
+| **JWT** | Autenticação e autorização com tokens |
+| **Bcrypt** | Hash seguro de senhas |
+| **React** | Biblioteca JavaScript para construção de interfaces |
+| **React Native** | Framework para desenvolvimento de aplicações mobile nativas |
+| **Expo** | Plataforma de desenvolvimento para React Native (iOS/Android/Web) |
+| **TypeScript** | Linguagem com tipagem estática baseada em JavaScript |
+| **React Router** | Roteamento para aplicações web em React |
+| **Vite** | Build tool moderno e rápido para aplicações web |
+| **Tailwind CSS** | Framework CSS utilitário para estilização |
+| **React Native Maps** | Componente de mapas interativos para mobile |
+| **Axios** | Cliente HTTP para requisições de API |
+| **ESLint** | Linter para padronização e qualidade de código |
+
 
 ---
 
