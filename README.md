@@ -82,3 +82,4 @@ Minha maior motivação foi o interesse em aprofundar conhecimentos na área de 
 | OAK-RH | 2024-2 (3º Sem.) | Youtan (Prof. Massanori) | [Ir para a seção](projetos/api3.md) |
 | Lumen | 2025-1 (4º Sem.) | FAPG (Prof. Juliana) | [Ir para a seção](projetos/api4.md) |
 | GeoMaps | 2025-2 (5º Sem.) | Visiona (Prof. Gérson) | [Ir para a seção](projetos/api5.md) |
+| RulesAI | 2026-1 (6º Sem.) | Dom Rock (Prof. Walmir) | [Ir para a seção](projetos/api6.md) |
