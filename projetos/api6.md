@@ -65,4 +65,22 @@ Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comi
 | **Vue Router** | Roteamento para aplicação web |
 | **Pandas** | Manipulação e análise de dados |
 
+### Hard skills:
+
+- (Spring Boot), 
+- Python (LangChain/FastAPI),
+- HuggingFace
+- Vue
+- Pandas
+- MongoDB
+
+### Soft Skills:
+
+- Colaboração: conversas em relação ao backlog e as atividades da sprint
+- Proatividade: execução de tarefas do backlog como DevTeam
+- Autonomia: manutenção do repositório e README
+- Visão de Produto.
+- Gestão de Qualidade (revisão de Pull Requests e proteção de branches)
+
+
 [[Voltar]](../README.md)

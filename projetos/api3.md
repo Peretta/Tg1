@@ -58,6 +58,25 @@ Atuei como **Desenvolvedor (Dev Team)**, contribuindo diretamente tanto no back-
 - Implementação inicial do **servidor React**, configuração do `.gitignore`, remoção do `node_modules` do repositório e padronização da base do projeto.
 - Participação ativa na construção das telas iniciais, fluxo do portal do usuário e no desenvolvimento contínuo da interface.
 
+### Hard skills:
+
+- TypeScript, 
+- Next.js/React, 
+- Node.js (Express), 
+- PostgreSQL, 
+- Firebase (Auth), 
+- Tailwind CSS
+
+
+### Soft Skills:
+
+- Colaboração: conversas em relação ao backlog e as atividades da sprint
+- Proatividade: execução de tarefas do backlog como DevTeam
+- Autonomia: manutenção do repositório e README
+- Visão de Produto.
+
+
+
 ---
 Alguns commits: 
 - Gráficos de usuários e equipes implementados  

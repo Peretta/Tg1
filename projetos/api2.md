@@ -45,6 +45,23 @@ Atuei como **Desenvolvedor (Dev Team)** no projeto. Minhas principais contribui�
 
 ---
 
+### Hard skills:
+
+- Java, 
+- MySQL (Modelagem e CRUD), 
+- LangChain4j, 
+- LM Studio (execução de LLMs), 
+- Hugging face
+
+
+### Soft Skills:
+
+- Colaboração: conversas em relação ao backlog e as atividades da sprint
+- Proatividade: execução de tarefas do backlog como DevTeam
+- Autonomia: manutenção do repositório e README
+- Visão de Produto.
+
+
 Alguns dos commits no desenvolvimento:
 
 - *Função ligar servidor LM funciona*  

@@ -97,6 +97,24 @@ Atuei como **Scrum Master**,e no desenvolvimento técnico (backend e mobile). Mi
     - PRs: `#1`, `#2`, `#5`, `#6`, `#7`, `#8`, `#9`, `#10`, `#11`, `#12`, `#13`, `#16`, `#19`, `#21`, `#22`, `#23`, `#24`, `#25`, `#27`, `#28` etc.  
   - Resolução de conflitos, ajuste de estrutura de pastas e refinamento de componentes conforme o projeto evoluía.
 
+### Hard skills:
+
+- React Native (Mobile), 
+- Python (FastAPI), 
+- MongoDB (Geoespacial), 
+- Google Maps API, 
+- Plus Codes, 
+- JWT e 
+- Mapas Offline
+
+
+### Soft Skills:
+
+- Liderança (Scrum Master), 
+- Facilitação (comunicação entre squads de front e back), 
+- Gestão de Qualidade (revisão de Pull Requests e proteção de branches) e - Gestão de Conflitos
+
+
 Alguns Commits 
 
 - *Merge pull request #11 – develop*  

@@ -52,6 +52,22 @@ Atuei como **Product Owner (PO)** e também contribuí no **desenvolvimento** da
 
 ---
 
+### Hard skills:
+
+- Python (Flask), 
+- HTML5/CSS3,
+- Bootstrap,
+- Figma (Prototipagem), 
+- Git/GitHub.
+
+
+### Soft Skills:
+
+- Comunicação e Negociação: ao refinar requisitos com o cliente
+- Liderança: gestão de backlog e Sprints como Product Owner, 
+- Organização: manutenção do repositório e README
+- Visão de Produto.
+
 Alguns dos commits no projeto:
 
 - **Base do HTML e início do Flask**  

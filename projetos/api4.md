@@ -44,6 +44,23 @@ Também implementei o Soft Delete, a funcionalidade de restauração de projetos
 
 Apliquei uma IA capaz de chamar funções do beckend, como por exemplo "concluir tarefas"
 
+### Hard skills:
+
+ - React, 
+ - Node.js, 
+ - TypeScript, 
+ - PostgreSQL, 
+ - Integração com IA (Ollama) para chamada de funções e 
+ - Migrations
+
+### Soft Skills:
+
+- Colaboração: conversas em relação ao backlog e as atividades da sprint
+- Proatividade: execução de tarefas do backlog como DevTeam
+- Autonomia: manutenção do repositório e README
+- Visão de Produto.
+
+
 Alguns commits
 
 - CRUD Etapa e relação com usuário 
