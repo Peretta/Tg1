@@ -67,7 +67,7 @@ Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comi
 
 ### Hard skills:
 
-- (Spring Boot), 
+- Spring Boot, 
 - Python (LangChain/FastAPI),
 - HuggingFace
 - Vue
@@ -82,5 +82,19 @@ Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comi
 - Visão de Produto.
 - Gestão de Qualidade (revisão de Pull Requests e proteção de branches)
 
+### Commits e Participações Relevantes
+
+- Merge pull request #15 from Phoenix-Team-Fatec/fix/docs-dom-rock
+- Merge pull request #14 from Phoenix-Team-Fatec/feature/mvc-lojas
+- Funcionários sem repetiçãO
+- CRUD de usuário
+- Alteração no comando que exibe versões
+- Interfaces e implementações em services
+- Merge branch 'develop' into refactor/servico-interface-impl
+- Merge pull request #4 from Phoenix-Team-Fatec/feature/rules-listing
+- Tutorial importar dados
+- Devcontainer alterado
+- Merge pull request #3 from Phoenix-Team-Fatec/feature/commission-engine
+- Testes de unidade
 
 [[Voltar]](../README.md)
