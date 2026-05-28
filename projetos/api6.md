@@ -22,7 +22,7 @@ Especificamente, no contexto de **cálculo de comissionamento mensal de funcion�
 
 Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comissionamento** composto por três camadas:
 
-1. **Backend (Spring Boot)**: API REST para cálculo de comissões, gerenciamento de regras de negócio, armazenamento em MongoDB e importação de dados via Excel.
+1. **Backend (Spring Boot)**: API REST para cálculo e auditoria de comissões, gerenciamento de regras de negócio, armazenamento em MongoDB e importação de dados via Excel.
 
 2. **Frontend Web (Vue.js 3)**: Aplicação SPA (Single Page Application) para criação, visualização e gerenciamento de regras de negócio com interface intuitiva e autenticação.
 
@@ -87,7 +87,7 @@ Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comi
 - Merge pull request #15 from Phoenix-Team-Fatec/fix/docs-dom-rock
 - Merge pull request #14 from Phoenix-Team-Fatec/feature/mvc-lojas
 - Funcionários sem repetiçãO
-- CRUD de usuário
+- CRUD de usuário, 
 - Alteração no comando que exibe versões
 - Interfaces e implementações em services
 - Merge branch 'develop' into refactor/servico-interface-impl
@@ -96,5 +96,7 @@ Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comi
 - Devcontainer alterado
 - Merge pull request #3 from Phoenix-Team-Fatec/feature/commission-engine
 - Testes de unidade
+- marcas, lojas efuncionarios
+- auditoria
 
 [[Voltar]](../README.md)
