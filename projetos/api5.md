@@ -99,20 +99,23 @@ Atuei como **Scrum Master**,e no desenvolvimento técnico (backend e mobile). Mi
 
 ### Hard skills:
 
-- React Native (Mobile), 
-- Python (FastAPI), 
-- MongoDB (Geoespacial), 
-- Google Maps API, 
-- Plus Codes, 
-- JWT e 
-- Mapas Offline
-
+| **Tecnologia** | **O que consigo fazer** |
+|---|---|
+| **React Native (Mobile)** | Criar telas de login/cadastro/perfil, botão de alertas, traçado de rotas e mapa offline. |
+| **Python (FastAPI)** | Desenvolver endpoints de auth, admin, certificados PDF, ocorrências e filtros por Plus Code. |
+| **MongoDB (Geoespacial)** | Armazenar e consultar propriedades com coordenadas; integrar dados de mapa e histórico de Plus Code. |
+| **Google Maps API** | Exibir propriedades no mapa, posicionar marcadores customizados e apoiar roteirização rural. |
+| **Plus Codes** | Gerar, adicionar, remover e consultar histórico de códigos por coordenadas ou seleção no mapa. |
+| **JWT** | Proteger rotas de usuário e administrador com autenticação baseada em token. |
+| **Mapas Offline** | Entregar funcionalidade de mapa utilizável sem conexão contínua, com correções de UI. |
 
 ### Soft Skills:
 
-- Liderança (Scrum Master), 
-- Facilitação (comunicação entre squads de front e back), 
-- Gestão de Qualidade (revisão de Pull Requests e proteção de branches) e - Gestão de Conflitos
+**Cenário — duas squads, um mapa, muitos PRs**
+
+Como **Scrum Master** do GeoMaps, o time estava dividido entre backend (FastAPI/MongoDB) e mobile (React Native). Na daily de uma sprint crítica, o mobile esperava o endpoint de Plus Code e o back-end ainda ajustava o formato das coordenadas (`cordinates` vs `coordinates`). Facilitei uma conversa rápida entre as squads, alinhamos o contrato da API e evitamos dois dias de retrabalho.
+
+Paralelamente, protegi as branches `master` e `develop` exigindo **revisão de PRs** antes do merge — o que gerou atrito inicial, mas reduziu bugs em produção. Quando surgiram conflitos entre `feature/offline-map` e `feature/Trancing_Routes`, medi a **gestão de conflitos**: priorizamos o que desbloqueava a demo com a Visiona. Também atuei como dev, implementando auth JWT, alertas no mapa e listagem de propriedades do usuário. Essa combinação de **liderança**, **facilitação** e entrega técnica manteve o fluxo da sprint previsível mesmo com integrações complexas entre mapa, clima e roteirização.
 
 
 Alguns Commits 

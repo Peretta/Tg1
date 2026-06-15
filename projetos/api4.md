@@ -46,19 +46,22 @@ Apliquei uma IA capaz de chamar funções do beckend, como por exemplo "concluir
 
 ### Hard skills:
 
- - React, 
- - Node.js, 
- - TypeScript, 
- - PostgreSQL, 
- - Integração com IA (Ollama) para chamada de funções e 
- - Migrations
+| **Tecnologia** | **O que consigo fazer** |
+|---|---|
+| **React** | Integrar a tela "Minhas Tarefas", exibir atividades por usuário e melhorar UX com pop-ups e ajustes de layout. |
+| **Node.js** | Implementar CRUD de etapas, rotas de soft delete/restauração e endpoints chamados pelo assistente de IA. |
+| **TypeScript** | Escrever services tipados (ex.: OllamaService) e manter contratos claros entre front, back e IA. |
+| **PostgreSQL** | Criar e evoluir migrations, modelar vínculos etapa–usuário–tarefa e aplicar regra de exclusão após 30 dias. |
+| **Ollama** | Montar prompts estruturados em JSON para ações como `complete_task`, `complete_etapa` e `list_overdue`. |
+| **Migrations** | Ajustar schema ao longo do projeto sem perder dados, incluindo campos de exclusão lógica e restauração. |
 
 ### Soft Skills:
 
-- Colaboração: conversas em relação ao backlog e as atividades da sprint
-- Proatividade: execução de tarefas do backlog como DevTeam
-- Autonomia: manutenção do repositório e README
-- Visão de Produto.
+**Cenário — quando a FAPG apagou um projeto por engano**
+
+A cliente pediu que projetos excluídos pudessem ser recuperados — excluir definitivamente só depois de 30 dias. Implementei o **soft delete** com restauração e a regra automática de remoção permanente, explicando na review como isso protegia contra erros humanos sem perder rastreabilidade.
+
+Na mesma sprint, outro membro travou na tela "Minhas Tarefas". Assumi a **integração front-back** para que cada pesquisador visse só o que lhe cabia. Depois, propus usar **Ollama** para comandos do tipo "finalize a tarefa 12" — em vez de navegar menus, o usuário fala e o sistema executa. Isso exigiu **colaboração** com quem mantinha as rotas de tarefas e **visão de produto** para não complicar o fluxo de quem prefere a interface tradicional. O resultado foi uma plataforma mais transparente para a gestão de projetos da FAPG, com menos planilhas e mais controle sobre prazos e responsáveis.
 
 
 Alguns commits

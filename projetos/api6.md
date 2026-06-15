@@ -67,20 +67,22 @@ Um **sistema integrado de gerenciamento de regras de negócio e cálculo de comi
 
 ### Hard skills:
 
-- Spring Boot, 
-- Python (LangChain/FastAPI),
-- HuggingFace
-- Vue
-- Pandas
-- MongoDB
+| **Tecnologia** | **O que consigo fazer** |
+|---|---|
+| **Spring Boot** | Desenvolver motor de comissionamento com auditoria etapa a etapa, CRUD de usuários/lojas/marcas e APIs REST. |
+| **Python (LangChain/FastAPI)** | Montar agente IA que interpreta regras, gera código e consulta base indexada via RAG. |
+| **HuggingFace** | Acessar e testar modelos abertos compatíveis com o pipeline de geração e recuperação de regras. |
+| **Vue.js 3** | Criar interfaces para listagem, criação e edição de regras de negócio com fluxo autenticado. |
+| **Pandas** | Importar e validar dados de funcionários e vendas a partir de planilhas Excel. |
+| **MongoDB** | Armazenar regras dinâmicas, resultados de comissão e trilhas de auditoria por funcionário. |
 
 ### Soft Skills:
 
-- Colaboração: conversas em relação ao backlog e as atividades da sprint
-- Proatividade: execução de tarefas do backlog como DevTeam
-- Autonomia: manutenção do repositório e README
-- Visão de Produto.
-- Gestão de Qualidade (revisão de Pull Requests e proteção de branches)
+**Cenário — quando a regra de comissão mudou na véspera do fechamento**
+
+A Dom Rock precisava calcular comissionamento mensal com dezenas de exceções — férias, licença, bônus por faixa, override de marca — e ainda rastrear *por que* cada valor foi calculado. Na sprint do **motor de comissionamento**, implementei a função `calcular_comissionamento` com **auditoria** etapa a etapa, para que o RH pudesse explicar qualquer valor ao funcionário.
+
+Quando o cliente pediu suporte a novas regras temporárias (overrides de percentual por mês), **negociei** com o PO o escopo mínimo viável para não atrasar o fechamento: overrides via dicionário, sem refatorar todo o engine. Revisei PRs de colegas (`feature/commission-engine`, `feature/rules-listing`) aplicando **gestão de qualidade** — garantindo testes de unidade e interfaces consistentes entre service e implementação. Com **proatividade**, documentei o tutorial de importação de dados e corrigi duplicidade de funcionários na base. O resultado foi um sistema em que regras deixam de ser conhecimento tácito e passam a ser rastreáveis, auditáveis e editáveis pela equipe de negócio.
 
 ### Commits e Participações Relevantes
 

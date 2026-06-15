@@ -47,19 +47,21 @@ Atuei como **Desenvolvedor (Dev Team)** no projeto. Minhas principais contribui�
 
 ### Hard skills:
 
-- Java, 
-- MySQL (Modelagem e CRUD), 
-- LangChain4j, 
-- LM Studio (execução de LLMs), 
-- Hugging face
-
+| **Tecnologia** | **O que consigo fazer** |
+|---|---|
+| **Java** | Implementar métodos de cadastro (`cadastrarUser`), buscar IDs/nomes de banco (`getIdUsuario`, `getNameDB`) e integrar a tela de chat ao back-end. |
+| **MySQL** | Criar schema, tabelas de usuários/conexões e consultas de validação usadas pelo CRUD. |
+| **LangChain4j** | Montar a ponte entre a aplicação Java e o modelo de linguagem para gerar SQL a partir de texto. |
+| **LM Studio** | Configurar e validar a função de conexão com o servidor LLM local (`ligar servidor LM`). |
+| **Hugging Face** | Explorar e testar modelos de linguagem compatíveis com o fluxo de tradução NL → SQL. |
 
 ### Soft Skills:
 
-- Colaboração: conversas em relação ao backlog e as atividades da sprint
-- Proatividade: execução de tarefas do backlog como DevTeam
-- Autonomia: manutenção do repositório e README
-- Visão de Produto.
+**Cenário — entregando o coração do DataEase**
+
+Na Sprint 3, o time precisava que o usuário digitasse uma pergunta em linguagem natural e recebesse o resultado da consulta na hora — mas a integração com o modelo ainda não estava estável. Assumi a tarefa de **conectar o LM Studio via LangChain4j**, testando localmente até a função `ligar servidor LM` funcionar de ponta a ponta.
+
+Enquanto isso, participei das **dailies e alinhamentos de backlog**, avisando cedo quando a conexão com o banco ou o CRUD de usuários bloqueava outras entregas. Com **proatividade**, fui além do mínimo: otimizei o `cadastrarUser` em duas etapas, comentei o código para facilitar revisão e modelei o MySQL para suportar múltiplos bancos por usuário. Quando a tela de chat precisou de ajustes visuais e funcionais, trabalhei de forma **autônoma** na integração front-back, garantindo que o texto gerado pelo modelo fosse executado diretamente no banco escolhido — cumprindo a promessa do produto: *perguntar e receber a resposta, sem saber SQL*.
 
 
 Alguns dos commits no desenvolvimento:

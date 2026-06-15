@@ -54,19 +54,21 @@ Atuei como **Product Owner (PO)** e também contribuí no **desenvolvimento** da
 
 ### Hard skills:
 
-- Python (Flask), 
-- HTML5/CSS3,
-- Bootstrap,
-- Figma (Prototipagem), 
-- Git/GitHub.
-
+| **Tecnologia** | **O que consigo fazer** |
+|---|---|
+| **Python (Flask)** | Criar rotas, processar dados de formulários, montar classes de avaliação e configurar envio de e-mail automático. |
+| **HTML5/CSS3** | Montar páginas estáticas, estruturar menus e aplicar estilos para melhorar legibilidade e layout. |
+| **Bootstrap** | Acelerar o front-end com componentes prontos (cards, grids, formulários) e padronizar a interface. |
+| **Figma** | Desenhar protótipos de telas e validar fluxos de navegação com o time antes de codar. |
+| **Git/GitHub** | Manter histórico de commits, organizar branches, documentar MVP/backlog e estruturar o repositório. |
 
 ### Soft Skills:
 
-- Comunicação e Negociação: ao refinar requisitos com o cliente
-- Liderança: gestão de backlog e Sprints como Product Owner, 
-- Organização: manutenção do repositório e README
-- Visão de Produto.
+**Cenário — refinando o produto com o cliente**
+
+No início do projeto, o professor Egídio pediu uma avaliação de equipes, mas ficou em aberto se seria só pelo modelo **PACER** ou se também haveria perguntas ao final de cada texto explicativo. Como **Product Owner**, marquei uma conversa para entender a expectativa real: o cliente queria medir desempenho da equipe *e* reforçar o aprendizado teórico. Negociei e propus implementar **as duas abordagens**, o que evitou retrabalho depois.
+
+Com o escopo alinhado, organizei o **backlog e as Sprints**, priorizando páginas essenciais (eventos, papéis, artefatos) e a funcionalidade PACER com envio por e-mail. Quando surgiram dúvidas de design no time, usei a **visão de produto** para manter coerência entre conteúdo didático e jornada do usuário. Também cuidei da **organização do repositório** — README, documentação de sprints e limpeza de arquivos — para que qualquer membro soubesse o que estava pronto e o que vinha a seguir.
 
 Alguns dos commits no projeto:
 

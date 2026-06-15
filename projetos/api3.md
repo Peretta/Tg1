@@ -60,20 +60,22 @@ Atuei como **Desenvolvedor (Dev Team)**, contribuindo diretamente tanto no back-
 
 ### Hard skills:
 
-- TypeScript, 
-- Next.js/React, 
-- Node.js (Express), 
-- PostgreSQL, 
-- Firebase (Auth), 
-- Tailwind CSS
-
+| **Tecnologia** | **O que consigo fazer** |
+|---|---|
+| **TypeScript** | Escrever controllers tipados, services reutilizáveis e componentes React com contratos claros de dados. |
+| **Next.js / React** | Montar dashboards com gráficos, portal do usuário, pop-ups de membros e fluxo completo de formulários. |
+| **Node.js (Express)** | Criar CRUD de equipes e categorias (model → controller → service → rotas) e expor endpoints REST. |
+| **PostgreSQL** | Persistir relações entre equipes, usuários e categorias; consultar dados para gráficos e relatórios. |
+| **Firebase (Auth)** | Implementar login/logout, Protected Routes e bloqueio de páginas para usuários não autenticados. |
+| **Tailwind CSS** | Construir interfaces responsivas para telas administrativas e do portal do colaborador. |
 
 ### Soft Skills:
 
-- Colaboração: conversas em relação ao backlog e as atividades da sprint
-- Proatividade: execução de tarefas do backlog como DevTeam
-- Autonomia: manutenção do repositório e README
-- Visão de Produto.
+**Cenário — construindo o módulo de equipes do zero**
+
+O RH da Youtan precisava alocar colaboradores em projetos e a plataforma ainda não tinha gestão de equipes. Na planning, peguei o épico de **Equipes** e quebrei em entregas: model, controller, service, rotas e, depois, a interface com listagem de membros e pop-ups de edição.
+
+Durante a sprint, mantive **colaboração** constante com quem cuidava de formulários e dashboards — avisei cedo quando mudanças no back-end impactavam o front. Com **proatividade**, resolvi conflitos de merge, padronizei a estrutura de pastas e entreguei Protected Routes para que apenas usuários logados acessassem o portal. Quando o PO pediu visibilidade analítica, implementei os **gráficos de usuários, equipes e formulários**, traduzindo a necessidade de negócio em telas que o RH conseguia usar no dia a dia sem depender de planilhas.
 
 
 
